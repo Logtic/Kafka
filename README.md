@@ -4,8 +4,14 @@
 - https://github.com/YBIGTA/EngineeringTeam
 
 ## 1. 예제 설명
-### skeleton
-- Driver, Mapper, Reducer, Partioner, Writable의 skeleton code
+### kafka-python
+- kafka consumer, producer, broker의 각 메소드별 사용법
+- 데이터를 보내고 받아오는 방법
+- 클러스터를 구성하는 노드의 정보 가져오기
+
+### kafka-java
+- 메시지를 전송하고 받아오기
+- kafka-stremaing을 통해서 실시간 pipe, wordcount, tokenizer 
 
 ## 2. 환경
 - intelliJ IDEA
